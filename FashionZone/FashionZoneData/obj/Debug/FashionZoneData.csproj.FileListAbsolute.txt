@@ -1,0 +1,15 @@
+c:\users\kenny\documents\visual studio 2015\Projects\FashionZone\FashionZoneData\bin\Debug\FashionZoneData.dll
+c:\users\kenny\documents\visual studio 2015\Projects\FashionZone\FashionZoneData\bin\Debug\FashionZoneData.pdb
+c:\users\kenny\documents\visual studio 2015\Projects\FashionZone\FashionZoneData\obj\Debug\FashionZoneData.csprojResolveAssemblyReference.cache
+c:\users\kenny\documents\visual studio 2015\Projects\FashionZone\FashionZoneData\obj\Debug\FashionZoneData.dll
+c:\users\kenny\documents\visual studio 2015\Projects\FashionZone\FashionZoneData\obj\Debug\FashionZoneData.pdb
+C:\Users\Kenny\Documents\GitHub\AppDev04\FashionZone\FashionZoneData\bin\Debug\FashionZoneData.dll
+C:\Users\Kenny\Documents\GitHub\AppDev04\FashionZone\FashionZoneData\bin\Debug\FashionZoneData.pdb
+C:\Users\Kenny\Documents\GitHub\AppDev04\FashionZone\FashionZoneData\obj\Debug\FashionZoneData.dll
+C:\Users\Kenny\Documents\GitHub\AppDev04\FashionZone\FashionZoneData\obj\Debug\FashionZoneData.pdb
+C:\Users\Kenny\Documents\GitHub\AppDev04\FashionZone\FashionZoneData\obj\Debug\FashionZoneData.csprojResolveAssemblyReference.cache
+D:\School\FashionZone\FashionZone\FashionZoneData\bin\Debug\FashionZoneData.dll
+D:\School\FashionZone\FashionZone\FashionZoneData\bin\Debug\FashionZoneData.pdb
+D:\School\FashionZone\FashionZone\FashionZoneData\obj\Debug\FashionZoneData.dll
+D:\School\FashionZone\FashionZone\FashionZoneData\obj\Debug\FashionZoneData.pdb
+D:\School\FashionZone\FashionZone\FashionZoneData\obj\Debug\FashionZoneData.csprojResolveAssemblyReference.cache

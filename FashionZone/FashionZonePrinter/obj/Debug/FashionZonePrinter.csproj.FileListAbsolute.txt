@@ -1,0 +1,10 @@
+C:\Users\Kenny\Documents\GitHub\AppDev04\FashionZone\FashionZonePrinter\obj\Debug\FashionZonePrinter.csprojResolveAssemblyReference.cache
+C:\Users\Kenny\Documents\GitHub\AppDev04\FashionZone\FashionZonePrinter\bin\Debug\FashionZonePrinter.dll
+C:\Users\Kenny\Documents\GitHub\AppDev04\FashionZone\FashionZonePrinter\bin\Debug\FashionZonePrinter.pdb
+C:\Users\Kenny\Documents\GitHub\AppDev04\FashionZone\FashionZonePrinter\obj\Debug\FashionZonePrinter.dll
+C:\Users\Kenny\Documents\GitHub\AppDev04\FashionZone\FashionZonePrinter\obj\Debug\FashionZonePrinter.pdb
+D:\School\FashionZone\FashionZone\FashionZonePrinter\bin\Debug\FashionZonePrinter.dll
+D:\School\FashionZone\FashionZone\FashionZonePrinter\bin\Debug\FashionZonePrinter.pdb
+D:\School\FashionZone\FashionZone\FashionZonePrinter\obj\Debug\FashionZonePrinter.dll
+D:\School\FashionZone\FashionZone\FashionZonePrinter\obj\Debug\FashionZonePrinter.pdb
+D:\School\FashionZone\FashionZone\FashionZonePrinter\obj\Debug\FashionZonePrinter.csprojResolveAssemblyReference.cache

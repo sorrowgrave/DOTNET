@@ -1,0 +1,80 @@
+﻿<Controls:MetroWindow x:Class="FashionZone.Instellingen"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FashionZone"
+        xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+        mc:Ignorable="d"
+        Title="Instellingen" Height="535.5" Width="300"
+        GlowBrush="{DynamicResource AccentColorBrush}">
+    <Grid Margin="0,20,0,1">
+        <Button x:Name="cancelButton" Content="Close" HorizontalAlignment="Left" VerticalAlignment="Top" Width="76" Click="cancelButton_Click" Margin="182,436,0,0" Cursor="Hand"/>
+        <DataGrid x:Name="merkDataGrid" HorizontalAlignment="Left" Margin="23,43,0,0" VerticalAlignment="Top" Height="309" Width="120" CanUserResizeColumns="False">
+            <DataGrid.Columns>
+                <DataGridTextColumn Width="105" Header="Merk" Binding="{Binding MerkNaam, Mode=TwoWay}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <DataGrid x:Name="categorieDataGrid" HorizontalAlignment="Left" Margin="152,43,0,0" VerticalAlignment="Top" Height="309" Width="120" CanUserResizeColumns="False">
+            <DataGrid.Columns>
+                <DataGridTextColumn Width="105" Header="Categorie" Binding="{Binding CategorieNaam, Mode=TwoWay}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Button x:Name="merkAddButton"
+        	Width="30"
+        	Height="30"
+        	VerticalAlignment="Top"
+        	Style="{DynamicResource MetroCircleButtonStyle}" Cursor="Hand" ToolTip="Toevoegen" Click="merkAddButton_Click" BorderThickness="0" Margin="85,356,177,0">
+            <Rectangle Fill="#ea4333"
+        		Width="15" 
+        		Height="15">
+                <Rectangle.OpacityMask>
+                    <VisualBrush Visual="{StaticResource appbar_add}"  />
+                </Rectangle.OpacityMask>
+            </Rectangle>
+
+        </Button>
+        <Button x:Name="merkRemoveButton"
+        	Width="30"
+        	Height="30"
+        	VerticalAlignment="Top"
+        	Style="{DynamicResource MetroCircleButtonStyle}" Cursor="Hand" ToolTip="Verwijderen" BorderThickness="0" Margin="55,356,207,0" Click="merkRemoveButton_Click">
+            <Rectangle Fill="#ea4333"
+        		Width="15" 
+        		Height="3">
+                <Rectangle.OpacityMask>
+                    <VisualBrush Visual="{StaticResource appbar_minus}" Stretch="Fill" />
+                </Rectangle.OpacityMask>
+            </Rectangle>
+        </Button>
+        <Button x:Name="categorieAddButton"
+        	Width="30"
+        	Height="30"
+        	VerticalAlignment="Top"
+        	Style="{DynamicResource MetroCircleButtonStyle}" Cursor="Hand" ToolTip="Toevoegen" Click="categorieAddButton_Click" BorderThickness="0" Margin="212,356,50,0">
+            <Rectangle Fill="#ea4333"
+        		Width="15" 
+        		Height="15">
+                <Rectangle.OpacityMask>
+                    <VisualBrush Visual="{StaticResource appbar_add}"  />
+                </Rectangle.OpacityMask>
+            </Rectangle>
+
+        </Button>
+        <Button x:Name="CategorieRemoveButton"
+        	Width="30"
+        	Height="30"
+        	VerticalAlignment="Top"
+        	Style="{DynamicResource MetroCircleButtonStyle}" Cursor="Hand" ToolTip="Verwijderen" BorderThickness="0" Margin="182,356,80,0" Click="CategorieRemoveButton_Click">
+            <Rectangle Fill="#ea4333"
+        		Width="15" 
+        		Height="3">
+                <Rectangle.OpacityMask>
+                    <VisualBrush Visual="{StaticResource appbar_minus}" Stretch="Fill" />
+                </Rectangle.OpacityMask>
+            </Rectangle>
+        </Button>
+
+
+    </Grid>
+</Controls:MetroWindow>

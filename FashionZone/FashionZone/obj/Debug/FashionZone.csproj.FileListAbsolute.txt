@@ -1,0 +1,133 @@
+c:\users\kenny\documents\visual studio 2015\Projects\FashionZone\FashionZone\bin\Debug\FashionZone.exe.config
+c:\users\kenny\documents\visual studio 2015\Projects\FashionZone\FashionZone\bin\Debug\FashionZone.exe
+c:\users\kenny\documents\visual studio 2015\Projects\FashionZone\FashionZone\bin\Debug\FashionZone.pdb
+c:\users\kenny\documents\visual studio 2015\Projects\FashionZone\FashionZone\obj\Debug\FashionZone.csprojResolveAssemblyReference.cache
+c:\users\kenny\documents\visual studio 2015\Projects\FashionZone\FashionZone\obj\Debug\App.g.cs
+c:\users\kenny\documents\visual studio 2015\Projects\FashionZone\FashionZone\obj\Debug\FashionZone_MarkupCompile.cache
+c:\users\kenny\documents\visual studio 2015\Projects\FashionZone\FashionZone\obj\Debug\FashionZone_MarkupCompile.lref
+c:\users\kenny\documents\visual studio 2015\Projects\FashionZone\FashionZone\obj\Debug\FashionZone.g.resources
+c:\users\kenny\documents\visual studio 2015\Projects\FashionZone\FashionZone\obj\Debug\FashionZone.Properties.Resources.resources
+c:\users\kenny\documents\visual studio 2015\Projects\FashionZone\FashionZone\obj\Debug\FashionZone.csproj.GenerateResource.Cache
+c:\users\kenny\documents\visual studio 2015\Projects\FashionZone\FashionZone\obj\Debug\FashionZone.exe
+c:\users\kenny\documents\visual studio 2015\Projects\FashionZone\FashionZone\obj\Debug\FashionZone.pdb
+c:\users\kenny\documents\visual studio 2015\Projects\FashionZone\FashionZone\obj\Debug\ControlPanel.g.cs
+c:\users\kenny\documents\visual studio 2015\Projects\FashionZone\FashionZone\obj\Debug\ControlPanel.baml
+c:\users\kenny\documents\visual studio 2015\Projects\FashionZone\FashionZone\bin\Debug\FashionZoneData.dll
+c:\users\kenny\documents\visual studio 2015\Projects\FashionZone\FashionZone\bin\Debug\FashionZoneData.pdb
+c:\users\kenny\documents\visual studio 2015\Projects\FashionZone\FashionZone\obj\Debug\Beheer.baml
+c:\users\kenny\documents\visual studio 2015\Projects\FashionZone\FashionZone\obj\Debug\Beheer.g.cs
+C:\Users\Kenny\Documents\Visual Studio 2015\Projects\FashionZone\FashionZone\bin\Debug\MahApps.Metro.dll
+C:\Users\Kenny\Documents\Visual Studio 2015\Projects\FashionZone\FashionZone\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Kenny\Documents\Visual Studio 2015\Projects\FashionZone\FashionZone\bin\Debug\MahApps.Metro.xml
+C:\Users\Kenny\Documents\Visual Studio 2015\Projects\FashionZone\FashionZone\obj\Debug\App.baml
+C:\Users\Kenny\Documents\Visual Studio 2015\Projects\FashionZone\FashionZone\obj\Debug\Resources\Icons.baml
+C:\Users\Kenny\Documents\Visual Studio 2015\Projects\FashionZone\FashionZone\obj\Debug\Resources\Icons.g.cs
+C:\Users\Kenny\Documents\Visual Studio 2015\Projects\FashionZone\FashionZone\obj\Debug\Toevoegen.g.cs
+C:\Users\Kenny\Documents\Visual Studio 2015\Projects\FashionZone\FashionZone\obj\Debug\Toevoegen.baml
+C:\Users\Kenny\Documents\GitHub\AppDev04\FashionZone\FashionZone\bin\Debug\FashionZone.exe.config
+C:\Users\Kenny\Documents\GitHub\AppDev04\FashionZone\FashionZone\obj\Debug\FashionZone.exe
+C:\Users\Kenny\Documents\GitHub\AppDev04\FashionZone\FashionZone\obj\Debug\FashionZone.pdb
+C:\Users\Kenny\Documents\GitHub\AppDev04\FashionZone\FashionZone\obj\Debug\FashionZone.csprojResolveAssemblyReference.cache
+C:\Users\Kenny\Documents\GitHub\AppDev04\FashionZone\FashionZone\obj\Debug\Beheer.baml
+C:\Users\Kenny\Documents\GitHub\AppDev04\FashionZone\FashionZone\obj\Debug\Resources\Icons.baml
+C:\Users\Kenny\Documents\GitHub\AppDev04\FashionZone\FashionZone\obj\Debug\ControlPanel.g.cs
+C:\Users\Kenny\Documents\GitHub\AppDev04\FashionZone\FashionZone\obj\Debug\Beheer.g.cs
+C:\Users\Kenny\Documents\GitHub\AppDev04\FashionZone\FashionZone\obj\Debug\Resources\Icons.g.cs
+C:\Users\Kenny\Documents\GitHub\AppDev04\FashionZone\FashionZone\obj\Debug\App.g.cs
+C:\Users\Kenny\Documents\GitHub\AppDev04\FashionZone\FashionZone\obj\Debug\FashionZone_MarkupCompile.cache
+C:\Users\Kenny\Documents\GitHub\AppDev04\FashionZone\FashionZone\obj\Debug\FashionZone_MarkupCompile.lref
+C:\Users\Kenny\Documents\GitHub\AppDev04\FashionZone\FashionZone\bin\Debug\FashionZone.exe
+C:\Users\Kenny\Documents\GitHub\AppDev04\FashionZone\FashionZone\bin\Debug\FashionZone.pdb
+C:\Users\Kenny\Documents\GitHub\AppDev04\FashionZone\FashionZone\bin\Debug\FashionZoneData.dll
+C:\Users\Kenny\Documents\GitHub\AppDev04\FashionZone\FashionZone\bin\Debug\MahApps.Metro.dll
+C:\Users\Kenny\Documents\GitHub\AppDev04\FashionZone\FashionZone\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Kenny\Documents\GitHub\AppDev04\FashionZone\FashionZone\bin\Debug\FashionZoneData.pdb
+C:\Users\Kenny\Documents\GitHub\AppDev04\FashionZone\FashionZone\bin\Debug\MahApps.Metro.xml
+C:\Users\Kenny\Documents\GitHub\AppDev04\FashionZone\FashionZone\obj\Debug\App.baml
+C:\Users\Kenny\Documents\GitHub\AppDev04\FashionZone\FashionZone\obj\Debug\ControlPanel.baml
+C:\Users\Kenny\Documents\GitHub\AppDev04\FashionZone\FashionZone\obj\Debug\FashionZone.g.resources
+C:\Users\Kenny\Documents\GitHub\AppDev04\FashionZone\FashionZone\obj\Debug\FashionZone.Properties.Resources.resources
+C:\Users\Kenny\Documents\GitHub\AppDev04\FashionZone\FashionZone\obj\Debug\FashionZone.csproj.GenerateResource.Cache
+C:\Users\Kenny\Documents\GitHub\AppDev04\FashionZone\FashionZone\obj\Debug\ArtikelToevoegen.g.cs
+C:\Users\Kenny\Documents\GitHub\AppDev04\FashionZone\FashionZone\obj\Debug\ArtikelToevoegen.baml
+C:\Users\Kenny\Documents\GitHub\AppDev04\FashionZone\FashionZone\obj\Debug\BestellingToevoegen.g.cs
+C:\Users\Kenny\Documents\GitHub\AppDev04\FashionZone\FashionZone\obj\Debug\BestellingToevoegen.baml
+C:\Users\Kenny\Documents\GitHub\AppDev04\FashionZone\FashionZone\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Kenny\Documents\GitHub\AppDev04\FashionZone\FashionZone\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Kenny\Documents\GitHub\AppDev04\FashionZone\FashionZone\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Kenny\Documents\GitHub\AppDev04\FashionZone\FashionZone\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Kenny\Documents\GitHub\AppDev04\FashionZone\FashionZone\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Kenny\Documents\GitHub\AppDev04\FashionZone\FashionZone\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Kenny\Documents\GitHub\AppDev04\FashionZone\FashionZone\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Kenny\Documents\GitHub\AppDev04\FashionZone\FashionZone\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Kenny\Documents\GitHub\AppDev04\FashionZone\FashionZone\bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Kenny\Documents\GitHub\AppDev04\FashionZone\FashionZone\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Kenny\Documents\GitHub\AppDev04\FashionZone\FashionZone\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Kenny\Documents\GitHub\AppDev04\FashionZone\FashionZone\obj\Debug\BestellingAanpassen.g.cs
+C:\Users\Kenny\Documents\GitHub\AppDev04\FashionZone\FashionZone\obj\Debug\BestellingAanpassen.baml
+C:\Users\Kenny\Documents\GitHub\AppDev04\FashionZone\FashionZone\obj\Debug\UserControlSearch.g.cs
+C:\Users\Kenny\Documents\GitHub\AppDev04\FashionZone\FashionZone\obj\Debug\UserControlSearch.baml
+C:\Users\Kenny\Documents\GitHub\AppDev04\FashionZone\FashionZone\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Kenny\Documents\GitHub\AppDev04\FashionZone\FashionZone\bin\Debug\FashionZonePrinter.dll
+C:\Users\Kenny\Documents\GitHub\AppDev04\FashionZone\FashionZone\bin\Debug\FashionZonePrinter.pdb
+C:\Users\Kenny\Documents\GitHub\AppDev04\FashionZone\FashionZone\obj\Debug\Instellingen.g.cs
+C:\Users\Kenny\Documents\GitHub\AppDev04\FashionZone\FashionZone\obj\Debug\Instellingen.baml
+C:\Users\Kenny\Documents\GitHub\AppDev04\FashionZone\FashionZone\obj\Debug\TotaalDetailView.g.cs
+C:\Users\Kenny\Documents\GitHub\AppDev04\FashionZone\FashionZone\obj\Debug\TotaalDetailView.baml
+C:\Users\Kenny\Documents\GitHub\AppDev04\FashionZone\FashionZone\obj\Debug\AddInstellingenDialog.g.cs
+C:\Users\Kenny\Documents\GitHub\AppDev04\FashionZone\FashionZone\obj\Debug\AddInstellingenDialog.baml
+D:\School\FashionZone\FashionZone\FashionZone\obj\Debug\FashionZone.csprojResolveAssemblyReference.cache
+D:\School\FashionZone\FashionZone\FashionZone\obj\Debug\Resources\Icons.baml
+D:\School\FashionZone\FashionZone\FashionZone\obj\Debug\UserControlSearch.baml
+D:\School\FashionZone\FashionZone\FashionZone\obj\Debug\AddInstellingenDialog.g.cs
+D:\School\FashionZone\FashionZone\FashionZone\obj\Debug\BestellingAanpassen.g.cs
+D:\School\FashionZone\FashionZone\FashionZone\obj\Debug\BestellingToevoegen.g.cs
+D:\School\FashionZone\FashionZone\FashionZone\obj\Debug\ControlPanel.g.cs
+D:\School\FashionZone\FashionZone\FashionZone\obj\Debug\Beheer.g.cs
+D:\School\FashionZone\FashionZone\FashionZone\obj\Debug\Instellingen.g.cs
+D:\School\FashionZone\FashionZone\FashionZone\obj\Debug\Resources\Icons.g.cs
+D:\School\FashionZone\FashionZone\FashionZone\obj\Debug\ArtikelToevoegen.g.cs
+D:\School\FashionZone\FashionZone\FashionZone\obj\Debug\TotaalDetailView.g.cs
+D:\School\FashionZone\FashionZone\FashionZone\obj\Debug\UserControlSearch.g.cs
+D:\School\FashionZone\FashionZone\FashionZone\obj\Debug\App.g.cs
+D:\School\FashionZone\FashionZone\FashionZone\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\School\FashionZone\FashionZone\FashionZone\obj\Debug\FashionZone_MarkupCompile.cache
+D:\School\FashionZone\FashionZone\FashionZone\obj\Debug\FashionZone_MarkupCompile.lref
+D:\School\FashionZone\FashionZone\FashionZone\bin\Debug\FashionZone.exe.config
+D:\School\FashionZone\FashionZone\FashionZone\bin\Debug\FashionZone.exe
+D:\School\FashionZone\FashionZone\FashionZone\bin\Debug\FashionZone.pdb
+D:\School\FashionZone\FashionZone\FashionZone\bin\Debug\Castle.Core.dll
+D:\School\FashionZone\FashionZone\FashionZone\bin\Debug\FashionZoneData.dll
+D:\School\FashionZone\FashionZone\FashionZone\bin\Debug\FashionZonePrinter.dll
+D:\School\FashionZone\FashionZone\FashionZone\bin\Debug\MahApps.Metro.dll
+D:\School\FashionZone\FashionZone\FashionZone\bin\Debug\Moq.dll
+D:\School\FashionZone\FashionZone\FashionZone\bin\Debug\System.Windows.Interactivity.dll
+D:\School\FashionZone\FashionZone\FashionZone\bin\Debug\FashionZoneData.pdb
+D:\School\FashionZone\FashionZone\FashionZone\bin\Debug\FashionZonePrinter.pdb
+D:\School\FashionZone\FashionZone\FashionZone\bin\Debug\Castle.Core.xml
+D:\School\FashionZone\FashionZone\FashionZone\bin\Debug\MahApps.Metro.xml
+D:\School\FashionZone\FashionZone\FashionZone\bin\Debug\Moq.xml
+D:\School\FashionZone\FashionZone\FashionZone\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+D:\School\FashionZone\FashionZone\FashionZone\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+D:\School\FashionZone\FashionZone\FashionZone\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+D:\School\FashionZone\FashionZone\FashionZone\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+D:\School\FashionZone\FashionZone\FashionZone\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+D:\School\FashionZone\FashionZone\FashionZone\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+D:\School\FashionZone\FashionZone\FashionZone\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+D:\School\FashionZone\FashionZone\FashionZone\bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+D:\School\FashionZone\FashionZone\FashionZone\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+D:\School\FashionZone\FashionZone\FashionZone\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+D:\School\FashionZone\FashionZone\FashionZone\obj\Debug\App.baml
+D:\School\FashionZone\FashionZone\FashionZone\obj\Debug\AddInstellingenDialog.baml
+D:\School\FashionZone\FashionZone\FashionZone\obj\Debug\BestellingAanpassen.baml
+D:\School\FashionZone\FashionZone\FashionZone\obj\Debug\BestellingToevoegen.baml
+D:\School\FashionZone\FashionZone\FashionZone\obj\Debug\ControlPanel.baml
+D:\School\FashionZone\FashionZone\FashionZone\obj\Debug\Beheer.baml
+D:\School\FashionZone\FashionZone\FashionZone\obj\Debug\Instellingen.baml
+D:\School\FashionZone\FashionZone\FashionZone\obj\Debug\ArtikelToevoegen.baml
+D:\School\FashionZone\FashionZone\FashionZone\obj\Debug\TotaalDetailView.baml
+D:\School\FashionZone\FashionZone\FashionZone\obj\Debug\FashionZone.g.resources
+D:\School\FashionZone\FashionZone\FashionZone\obj\Debug\FashionZone.Properties.Resources.resources
+D:\School\FashionZone\FashionZone\FashionZone\obj\Debug\FashionZone.csproj.GenerateResource.Cache
+D:\School\FashionZone\FashionZone\FashionZone\obj\Debug\FashionZone.exe
+D:\School\FashionZone\FashionZone\FashionZone\obj\Debug\FashionZone.pdb
