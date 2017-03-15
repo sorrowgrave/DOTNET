@@ -1,0 +1,29 @@
+C:\Users\Kenny\Documents\GitHub\AppDev04\OefenExamen\OefenExamen.DomainClasses\bin\Debug\OefenExamen.DomainClasses.dll.config
+C:\Users\Kenny\Documents\GitHub\AppDev04\OefenExamen\OefenExamen.DomainClasses\bin\Debug\OefenExamen.DomainClasses.dll
+C:\Users\Kenny\Documents\GitHub\AppDev04\OefenExamen\OefenExamen.DomainClasses\bin\Debug\OefenExamen.DomainClasses.pdb
+C:\Users\Kenny\Documents\GitHub\AppDev04\OefenExamen\OefenExamen.DomainClasses\bin\Debug\EntityFramework.dll
+C:\Users\Kenny\Documents\GitHub\AppDev04\OefenExamen\OefenExamen.DomainClasses\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Kenny\Documents\GitHub\AppDev04\OefenExamen\OefenExamen.DomainClasses\bin\Debug\EntityFramework.xml
+C:\Users\Kenny\Documents\GitHub\AppDev04\OefenExamen\OefenExamen.DomainClasses\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Kenny\Documents\GitHub\AppDev04\OefenExamen\OefenExamen.DomainClasses\obj\Debug\OefenExamen.DomainClasses.dll
+C:\Users\Kenny\Documents\GitHub\AppDev04\OefenExamen\OefenExamen.DomainClasses\obj\Debug\OefenExamen.DomainClasses.pdb
+C:\Users\Kenny\Documents\GitHub\AppDev04\OefenExamen\OefenExamen.DomainClasses\obj\Debug\OefenExamen.DomainClasses.csprojResolveAssemblyReference.cache
+C:\Users\Kenny\Desktop\OefenExamen\OefenExamen.DomainClasses\bin\Debug\OefenExamen.DomainClasses.dll.config
+C:\Users\Kenny\Desktop\OefenExamen\OefenExamen.DomainClasses\bin\Debug\OefenExamen.DomainClasses.dll
+C:\Users\Kenny\Desktop\OefenExamen\OefenExamen.DomainClasses\bin\Debug\OefenExamen.DomainClasses.pdb
+C:\Users\Kenny\Desktop\OefenExamen\OefenExamen.DomainClasses\bin\Debug\EntityFramework.dll
+C:\Users\Kenny\Desktop\OefenExamen\OefenExamen.DomainClasses\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Kenny\Desktop\OefenExamen\OefenExamen.DomainClasses\bin\Debug\EntityFramework.xml
+C:\Users\Kenny\Desktop\OefenExamen\OefenExamen.DomainClasses\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Kenny\Desktop\OefenExamen\OefenExamen.DomainClasses\obj\Debug\OefenExamen.DomainClasses.dll
+C:\Users\Kenny\Desktop\OefenExamen\OefenExamen.DomainClasses\obj\Debug\OefenExamen.DomainClasses.pdb
+C:\Users\11301497\Documents\School\Programming Adv\C#\Kenny\v4\OefenExamen\OefenExamen.DomainClasses\bin\Debug\OefenExamen.DomainClasses.dll.config
+C:\Users\11301497\Documents\School\Programming Adv\C#\Kenny\v4\OefenExamen\OefenExamen.DomainClasses\bin\Debug\OefenExamen.DomainClasses.dll
+C:\Users\11301497\Documents\School\Programming Adv\C#\Kenny\v4\OefenExamen\OefenExamen.DomainClasses\bin\Debug\OefenExamen.DomainClasses.pdb
+C:\Users\11301497\Documents\School\Programming Adv\C#\Kenny\v4\OefenExamen\OefenExamen.DomainClasses\bin\Debug\EntityFramework.dll
+C:\Users\11301497\Documents\School\Programming Adv\C#\Kenny\v4\OefenExamen\OefenExamen.DomainClasses\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\11301497\Documents\School\Programming Adv\C#\Kenny\v4\OefenExamen\OefenExamen.DomainClasses\bin\Debug\EntityFramework.xml
+C:\Users\11301497\Documents\School\Programming Adv\C#\Kenny\v4\OefenExamen\OefenExamen.DomainClasses\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\11301497\Documents\School\Programming Adv\C#\Kenny\v4\OefenExamen\OefenExamen.DomainClasses\obj\Debug\OefenExamen.DomainClasses.csprojResolveAssemblyReference.cache
+C:\Users\11301497\Documents\School\Programming Adv\C#\Kenny\v4\OefenExamen\OefenExamen.DomainClasses\obj\Debug\OefenExamen.DomainClasses.dll
+C:\Users\11301497\Documents\School\Programming Adv\C#\Kenny\v4\OefenExamen\OefenExamen.DomainClasses\obj\Debug\OefenExamen.DomainClasses.pdb

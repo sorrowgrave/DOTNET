@@ -1,0 +1,30 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+    Dictionary<string, OefenExamen.DomainClasses.Order> cart = (Dictionary<string, OefenExamen.DomainClasses.Order>)Session["orders"];
+
+}
+
+
+<h2>Your shopping cart</h2>
+@if (@cart != null)
+{
+    <select style="width:300px; font-size:14px;" name="sometext" size="5">
+        @foreach (KeyValuePair<string, OefenExamen.DomainClasses.Order> item in @cart)
+        {
+            OefenExamen.DomainClasses.Order order = item.Value;
+            OefenExamen.DomainClasses.Products product = order.product;
+
+            <option>
+                @product.Name ( @order.quantity at @Math.Round(@product.UnitPrice, 2) each )
+            </option>
+        }
+    </select>
+}
+else
+{
+    <h2><p>You have no items in your cart!</p></h2>
+}
+

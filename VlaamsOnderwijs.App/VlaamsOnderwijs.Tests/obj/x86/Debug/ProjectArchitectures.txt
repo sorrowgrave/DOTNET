@@ -1,0 +1,7 @@
+C:\Users\Gebruiker\Desktop\Good Test\VlaamsOnderwijs.App\VlaamsOnderwijs.App\VlaamsOnderwijs.App.csproj;x86
+C:\Users\Gebruiker\Desktop\Good Test\VlaamsOnderwijs.App\VlaamsOnderwijs.DAL\VlaamsOnderwijs.DAL.csproj;x86
+C:\Users\Gebruiker\Desktop\Good Test\VlaamsOnderwijs.App\VlaamsOnderwijs.DAL\VlaamsOnderwijs.DAL.csproj;x86
+C:\Users\Gebruiker\Desktop\Good Test\VlaamsOnderwijs.App\VlaamsOnderwijs.ef\VlaamsOnderwijs.ef.csproj;x86
+C:\Users\Gebruiker\Desktop\Good Test\VlaamsOnderwijs.App\VlaamsOnderwijs.ef\VlaamsOnderwijs.ef.csproj;x86
+C:\Users\Gebruiker\Desktop\Good Test\VlaamsOnderwijs.App\VlaamsOnderwijs.ef\VlaamsOnderwijs.ef.csproj;x86
+C:\Users\Gebruiker\Desktop\Good Test\VlaamsOnderwijs.App\VlaamsOnderwijs.Tests\VlaamsOnderwijs.Tests.csproj;x86

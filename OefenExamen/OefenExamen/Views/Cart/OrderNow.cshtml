@@ -1,0 +1,32 @@
+﻿@model OefenExamen.DomainClasses.Products
+
+@{
+    ViewBag.Title = "OrderNow";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+}
+
+
+
+<h2>OrderNow</h2>
+
+<div>
+    <h4>@Html.DisplayFor(model => model.Name)</h4>
+    <hr />
+    <img class="img-responsive" src="~/Content/Images/@Html.DisplayFor(model => model.ImageFile)" />
+
+    @using (Html.BeginForm("OrderNow", "Order"))
+    {
+        <label>Quantity</label><input type="number" value="1" min="1" name="quantity" />
+        <input class="button" id="submit" type="submit" value="Submit" />
+
+        @Html.HiddenFor(model => model.ProductID)
+        @Html.HiddenFor(model => model.Name)
+        @Html.HiddenFor(model => model.UnitPrice)
+
+
+    }
+</div>
+<p>
+    <h4>@Html.ActionLink("Cancel", "Index", "Order")</h4>
+</p>

@@ -1,0 +1,128 @@
+<Page x:Class="VlaamsOnderwijs.App.Views.MainPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:Behaviors="using:Template10.Behaviors"
+      xmlns:Core="using:Microsoft.Xaml.Interactions.Core"
+      xmlns:Interactivity="using:Microsoft.Xaml.Interactivity"
+      xmlns:controls="using:Template10.Controls"
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+      xmlns:local="using:VlaamsOnderwijs.App.Views"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+      xmlns:vm="using:VlaamsOnderwijs.App.ViewModels"
+      mc:Ignorable="d">
+
+    <Page.DataContext>
+        <Binding Path="MainPageViewModel" Source="{StaticResource Locator}" />
+    </Page.DataContext>
+
+    <RelativePanel Background="{ThemeResource ApplicationPageBackgroundThemeBrush}"
+          HorizontalAlignment="Stretch" VerticalAlignment="Stretch">
+
+        <!--  #region default visual states  -->
+
+        <VisualStateManager.VisualStateGroups>
+            <VisualStateGroup x:Name="AdaptiveVisualStateGroup">
+                <VisualState x:Name="NarrowState">
+                    <VisualState.StateTriggers>
+                        <AdaptiveTrigger MinWindowWidth="0" />
+                    </VisualState.StateTriggers>
+                    <VisualState.Setters>
+                        <Setter Target="SchoolListView.IsItemClickEnabled" Value="False" />
+                    </VisualState.Setters>
+                </VisualState>
+                <VisualState x:Name="DetailState">
+                    <VisualState.StateTriggers>
+                        <AdaptiveTrigger MinWindowWidth="700" />
+                    </VisualState.StateTriggers>
+                    <VisualState.Setters>
+                        <Setter Target="DetailContentPresenter.Visibility" Value="Visible" />
+                        <Setter Target="SchoolListView.(RelativePanel.AlignLeftWithPanel)" Value="False" />
+                        <Setter Target="SchoolListView.(RelativePanel.AlignRightWithPanel)" Value="False" />
+                        <Setter Target="SchoolListView.IsItemClickEnabled" Value="True" />
+                    </VisualState.Setters>
+                </VisualState>
+                <!--<VisualState x:Name="VisualStateNarrow">
+                    <VisualState.StateTriggers>
+                        <AdaptiveTrigger MinWindowWidth="{StaticResource NarrowMinWidth}" />
+                    </VisualState.StateTriggers>
+                    <VisualState.Setters>
+                        <Setter Target="DetailContentPresenter.Visibility" Value="Collapsed" />
+                    </VisualState.Setters>
+                </VisualState>
+                <VisualState x:Name="VisualStateNormal">
+                    <VisualState.StateTriggers>
+                        <AdaptiveTrigger MinWindowWidth="{StaticResource NormalMinWidth}" />
+                    </VisualState.StateTriggers>
+                    <VisualState.Setters>
+                        <Setter Target="DetailContentPresenter.Visibility" Value="Collapsed" />
+                    </VisualState.Setters>
+                </VisualState>
+                <VisualState x:Name="VisualStateWide">
+                    <VisualState.StateTriggers>
+                        <AdaptiveTrigger MinWindowWidth="{StaticResource WideMinWidth}" />
+                    </VisualState.StateTriggers>
+                    <VisualState.Setters>
+                    </VisualState.Setters>
+                </VisualState>-->
+            </VisualStateGroup>
+        </VisualStateManager.VisualStateGroups>
+
+        <!--  #endregion  -->
+
+        <!--  page header  -->
+
+        <controls:PageHeader BackButtonVisibility="Collapsed" Content="Selecteer een school" Frame="{x:Bind Frame}" Name="Header" 
+                             RelativePanel.AlignLeftWithPanel="True" RelativePanel.AlignRightWithPanel="True">
+            <Interactivity:Interaction.Behaviors>
+                <Behaviors:EllipsisBehavior Visibility="Auto" />
+            </Interactivity:Interaction.Behaviors>
+            <controls:PageHeader.SecondaryCommands>
+                <AppBarButton Command="{Binding GotoPrivacyCommand}" Label="Privacy" />
+                <AppBarButton Command="{Binding GotoAboutCommand}" Label="About" />
+            </controls:PageHeader.SecondaryCommands>
+        </controls:PageHeader>
+
+        <!--  page content  -->
+
+        <RelativePanel Name="splitView" Background="{ThemeResource ApplicationPageBackgroundThemeBrush}" RelativePanel.Below="Header"
+                       RelativePanel.AlignLeftWithPanel="True" RelativePanel.AlignRightWithPanel="True">
+
+
+            <ListView
+                
+                Name="SchoolListView"
+                ItemsSource="{Binding Schools}" 
+                SelectedItem="{Binding SelectedSchool, Mode=OneWay}"
+                ItemTemplate = "{StaticResource MasterListViewItemTemplate}"
+                IsItemClickEnabled="True"
+                RelativePanel.AlignLeftWithPanel="True" RelativePanel.AlignRightWithPanel="True">
+                <ListView.ItemContainerStyle>
+                    <Style TargetType="ListViewItem">
+                        <Setter Property="HorizontalContentAlignment" Value="Stretch" />
+                    </Style>
+                </ListView.ItemContainerStyle>
+                <Interactivity:Interaction.Behaviors>
+                    <Core:EventTriggerBehavior EventName="ItemClick">
+                        <Core:InvokeCommandAction Command="{Binding GotoDetailsCommand}"  />
+                    </Core:EventTriggerBehavior>
+                 </Interactivity:Interaction.Behaviors>
+            </ListView>
+
+            <ContentPresenter
+                x:Name="DetailContentPresenter"
+                Visibility="Collapsed"
+                RelativePanel.RightOf="SchoolListView"
+                BorderThickness="1,0,0,0"
+                Padding="24,0"
+                BorderBrush="{ThemeResource SystemControlForegroundBaseLowBrush}"
+                ContentTemplate="{StaticResource DetailContentTemplate}">
+                <!--Content="{Binding SelectedSchool, Mode=OneWay}"-->
+                <ContentPresenter.ContentTransitions>
+                    <!--Empty by default. See DetailContentTemplate-->
+                    <TransitionCollection />
+                </ContentPresenter.ContentTransitions>
+            </ContentPresenter>
+        </RelativePanel>
+    </RelativePanel>
+</Page>
+

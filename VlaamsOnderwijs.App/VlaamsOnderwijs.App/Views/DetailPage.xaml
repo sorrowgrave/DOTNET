@@ -1,0 +1,87 @@
+<Page x:Class="VlaamsOnderwijs.App.Views.DetailPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:Behaviors="using:Template10.Behaviors"
+      xmlns:Core="using:Microsoft.Xaml.Interactions.Core"
+      xmlns:Interactivity="using:Microsoft.Xaml.Interactivity"
+      xmlns:controls="using:Template10.Controls"
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+      xmlns:local="using:VlaamsOnderwijs.App.Views"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+      xmlns:vm="using:VlaamsOnderwijs.App.ViewModels" x:Name="ThisPage"
+      mc:Ignorable="d">
+
+    <Page.DataContext>
+        <Binding Path="DetailPageViewModel" Source="{StaticResource Locator}" />
+    </Page.DataContext>
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+        <!--  adaptive states  -->
+
+        <VisualStateManager.VisualStateGroups>
+            <VisualStateGroup x:Name="AdaptiveVisualStateGroup">
+                <VisualState x:Name="VisualStateNarrow">
+                    <VisualState.StateTriggers>
+                        <AdaptiveTrigger MinWindowWidth="{StaticResource NarrowMinWidth}" />
+                    </VisualState.StateTriggers>
+                    <VisualState.Setters>
+                        <!--  TODO  -->
+                    </VisualState.Setters>
+                </VisualState>
+                <VisualState x:Name="VisualStateNormal">
+                    <VisualState.StateTriggers>
+                        <AdaptiveTrigger MinWindowWidth="{StaticResource NormalMinWidth}" />
+                    </VisualState.StateTriggers>
+                    <VisualState.Setters>
+                        <!--  TODO  -->
+                    </VisualState.Setters>
+                </VisualState>
+                <VisualState x:Name="VisualStateWide">
+                    <VisualState.StateTriggers>
+                        <AdaptiveTrigger MinWindowWidth="{StaticResource WideMinWidth}" />
+                    </VisualState.StateTriggers>
+                    <VisualState.Setters>
+                        <!--  TODO  -->
+                    </VisualState.Setters>
+                </VisualState>
+            </VisualStateGroup>
+        </VisualStateManager.VisualStateGroups>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition />
+        </Grid.RowDefinitions>
+
+        <!--  header  -->
+        
+        <RelativePanel>
+            <controls:PageHeader Frame="{x:Bind Frame}" Text="Detail Page" Name="Header"
+                                 RelativePanel.AlignLeftWithPanel="True" RelativePanel.AlignRightWithPanel="True">
+                <Interactivity:Interaction.Behaviors>
+                    <Behaviors:EllipsisBehavior Visibility="Auto" />
+                </Interactivity:Interaction.Behaviors>
+            </controls:PageHeader>
+
+            <!--  #region content  -->
+
+            <ContentPresenter
+                x:Name="DetailContentPresenter"
+                RelativePanel.Below="Header"
+                BorderThickness="1,0,0,0"
+                Padding="24,0"
+                BorderBrush="{ThemeResource SystemControlForegroundBaseLowBrush}"
+                ContentTemplate="{StaticResource DetailContentTemplate}">
+                <!--Content="{Binding SelectedSchool, Mode=OneWay}"-->
+                <ContentPresenter.ContentTransitions>
+                    <!--Empty by default. See DetailContentTemplate-->
+                    <TransitionCollection />
+                </ContentPresenter.ContentTransitions>
+            </ContentPresenter>
+        </RelativePanel>
+
+        <!--  #endregion  -->
+
+    </Grid>
+</Page>
+
