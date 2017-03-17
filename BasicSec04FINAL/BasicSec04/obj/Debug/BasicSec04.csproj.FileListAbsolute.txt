@@ -1,0 +1,180 @@
+C:\Users\Kenny\Documents\GitHub\BasicSecurity\BasicSec04\BasicSec04\bin\Debug\BasicSec04.exe.config
+C:\Users\Kenny\Documents\GitHub\BasicSecurity\BasicSec04\BasicSec04\bin\Debug\BasicSec04.exe
+C:\Users\Kenny\Documents\GitHub\BasicSecurity\BasicSec04\BasicSec04\bin\Debug\BasicSec04.pdb
+C:\Users\Kenny\Documents\GitHub\BasicSecurity\BasicSec04\BasicSec04\bin\Debug\BasicSecDB.dll
+C:\Users\Kenny\Documents\GitHub\BasicSecurity\BasicSec04\BasicSec04\bin\Debug\BasicSecDB.pdb
+C:\Users\Kenny\Documents\GitHub\BasicSecurity\BasicSec04\BasicSec04\obj\Debug\BasicSec04.csprojResolveAssemblyReference.cache
+C:\Users\Kenny\Documents\GitHub\BasicSecurity\BasicSec04\BasicSec04\obj\Debug\BasicSec04.Login.resources
+C:\Users\Kenny\Documents\GitHub\BasicSecurity\BasicSec04\BasicSec04\obj\Debug\BasicSec04.Menu.resources
+C:\Users\Kenny\Documents\GitHub\BasicSecurity\BasicSec04\BasicSec04\obj\Debug\BasicSec04.Properties.Resources.resources
+C:\Users\Kenny\Documents\GitHub\BasicSecurity\BasicSec04\BasicSec04\obj\Debug\BasicSec04.csproj.GenerateResource.Cache
+C:\Users\Kenny\Documents\GitHub\BasicSecurity\BasicSec04\BasicSec04\obj\Debug\BasicSec04.exe
+C:\Users\Kenny\Documents\GitHub\BasicSecurity\BasicSec04\BasicSec04\obj\Debug\BasicSec04.pdb
+C:\Users\Kenny\Documents\GitHub\BasicSecurity\BasicSecurity\BasicSec04\BasicSec04\bin\Debug\BasicSec04.exe.config
+C:\Users\Kenny\Documents\GitHub\BasicSecurity\BasicSecurity\BasicSec04\BasicSec04\obj\Debug\BasicSec04.exe
+C:\Users\Kenny\Documents\GitHub\BasicSecurity\BasicSecurity\BasicSec04\BasicSec04\obj\Debug\BasicSec04.pdb
+C:\Users\Kenny\Documents\GitHub\BasicSecurity\BasicSecurity\BasicSec04\BasicSec04\obj\Debug\BasicSec04.csprojResolveAssemblyReference.cache
+C:\Users\Kenny\Documents\GitHub\BasicSecurity\BasicSecurity\BasicSec04\BasicSec04\obj\Debug\BasicSec04.Login.resources
+C:\Users\Kenny\Documents\GitHub\BasicSecurity\BasicSecurity\BasicSec04\BasicSec04\obj\Debug\BasicSec04.Menu.resources
+C:\Users\Kenny\Documents\GitHub\BasicSecurity\BasicSecurity\BasicSec04\BasicSec04\obj\Debug\BasicSec04.Properties.Resources.resources
+C:\Users\Kenny\Documents\GitHub\BasicSecurity\BasicSecurity\BasicSec04\BasicSec04\obj\Debug\BasicSec04.Encrypt.resources
+C:\Users\Kenny\Documents\GitHub\BasicSecurity\BasicSecurity\BasicSec04\BasicSec04\obj\Debug\BasicSec04.csproj.GenerateResource.Cache
+C:\Users\Kenny\Documents\GitHub\BasicSecurity\BasicSecurity\BasicSec04\BasicSec04\bin\Debug\BasicSec04.exe
+C:\Users\Kenny\Documents\GitHub\BasicSecurity\BasicSecurity\BasicSec04\BasicSec04\bin\Debug\BasicSec04.pdb
+C:\Users\Kenny\Documents\GitHub\BasicSecurity\BasicSecurity\BasicSec04\BasicSec04\bin\Debug\BasicSecDB.dll
+C:\Users\Kenny\Documents\GitHub\BasicSecurity\BasicSecurity\BasicSec04\BasicSec04\bin\Debug\BasicSecDB.pdb
+C:\Users\Kenny\Documents\GitHub\BasicSecurity\BasicSec04\BasicSec04\bin\Debug\RSAExtensions.dll
+C:\Users\Kenny\Documents\GitHub\BasicSecurity\BasicSec04\BasicSec04\bin\Debug\RSAExtensions.pdb
+C:\Users\Kenny\Documents\GitHub\BasicSecurity\BasicSec04\BasicSec04\obj\Debug\BasicSec04.EncryptFile.resources
+C:\Users\Kenny\Documents\GitHub\BasicSecurity\BasicSec04\BasicSec04\obj\Debug\BasicSec04.ChoiceMenu.resources
+C:\Users\Kenny\Documents\GitHub\BasicSecurity\BasicSec04\BasicSec04\obj\Debug\BasicSec04.EncryptMessage.resources
+C:\Users\Kenny\Documents\GitHub\BasicSecurity\BasicSec04\BasicSec04\bin\Debug\AESExtensions.dll
+C:\Users\Kenny\Documents\GitHub\BasicSecurity\BasicSec04\BasicSec04\bin\Debug\AESExtensions.pdb
+C:\Users\Kenny\Documents\GitHub\BasicSecurity\BasicSec04\BasicSec04\obj\Debug\BasicSec04.DecryptFile.resources
+C:\Users\Kenny\Desktop\BasicSec04\BasicSec04\bin\Debug\BasicSec04.exe.config
+C:\Users\Kenny\Desktop\BasicSec04\BasicSec04\obj\Debug\BasicSec04.exe
+C:\Users\Kenny\Desktop\BasicSec04\BasicSec04\obj\Debug\BasicSec04.pdb
+C:\Users\Kenny\Desktop\BasicSec04\BasicSec04\bin\Debug\BasicSec04.exe
+C:\Users\Kenny\Desktop\BasicSec04\BasicSec04\bin\Debug\BasicSec04.pdb
+C:\Users\Kenny\Desktop\BasicSec04\BasicSec04\bin\Debug\AESExtensions.dll
+C:\Users\Kenny\Desktop\BasicSec04\BasicSec04\bin\Debug\BasicSecDB.dll
+C:\Users\Kenny\Desktop\BasicSec04\BasicSec04\bin\Debug\RSAExtensions.dll
+C:\Users\Kenny\Desktop\BasicSec04\BasicSec04\bin\Debug\AESExtensions.pdb
+C:\Users\Kenny\Desktop\BasicSec04\BasicSec04\bin\Debug\BasicSecDB.pdb
+C:\Users\Kenny\Desktop\BasicSec04\BasicSec04\bin\Debug\RSAExtensions.pdb
+C:\Users\Kenny\Desktop\BasicSec04\BasicSec04\obj\Debug\BasicSec04.csprojResolveAssemblyReference.cache
+C:\Users\Kenny\Desktop\BasicSec04\BasicSec04\obj\Debug\BasicSec04.DecryptFile.resources
+C:\Users\Kenny\Desktop\BasicSec04\BasicSec04\obj\Debug\BasicSec04.EncryptFile.resources
+C:\Users\Kenny\Desktop\BasicSec04\BasicSec04\obj\Debug\BasicSec04.Login.resources
+C:\Users\Kenny\Desktop\BasicSec04\BasicSec04\obj\Debug\BasicSec04.Menu.resources
+C:\Users\Kenny\Desktop\BasicSec04\BasicSec04\obj\Debug\BasicSec04.ChoiceMenu.resources
+C:\Users\Kenny\Desktop\BasicSec04\BasicSec04\obj\Debug\BasicSec04.Properties.Resources.resources
+C:\Users\Kenny\Desktop\BasicSec04\BasicSec04\obj\Debug\BasicSec04.EncryptMessage.resources
+C:\Users\Kenny\Desktop\BasicSec04\BasicSec04\obj\Debug\BasicSec04.csproj.GenerateResource.Cache
+G:\BasicSec04\BasicSec04\bin\Debug\BasicSec04.exe.config
+G:\BasicSec04\BasicSec04\obj\Debug\BasicSec04.exe
+G:\BasicSec04\BasicSec04\obj\Debug\BasicSec04.pdb
+G:\BasicSec04\BasicSec04\bin\Debug\BasicSec04.exe
+G:\BasicSec04\BasicSec04\bin\Debug\BasicSec04.pdb
+G:\BasicSec04\BasicSec04\bin\Debug\AESExtensions.dll
+G:\BasicSec04\BasicSec04\bin\Debug\BasicSecDB.dll
+G:\BasicSec04\BasicSec04\bin\Debug\RSAExtensions.dll
+G:\BasicSec04\BasicSec04\bin\Debug\AESExtensions.pdb
+G:\BasicSec04\BasicSec04\bin\Debug\BasicSecDB.pdb
+G:\BasicSec04\BasicSec04\bin\Debug\RSAExtensions.pdb
+G:\BasicSec04\BasicSec04\obj\Debug\BasicSec04.csprojResolveAssemblyReference.cache
+G:\BasicSec04\BasicSec04\obj\Debug\BasicSec04.DecryptFile.resources
+G:\BasicSec04\BasicSec04\obj\Debug\BasicSec04.EncryptFile.resources
+G:\BasicSec04\BasicSec04\obj\Debug\BasicSec04.Login.resources
+G:\BasicSec04\BasicSec04\obj\Debug\BasicSec04.Menu.resources
+G:\BasicSec04\BasicSec04\obj\Debug\BasicSec04.ChoiceMenu.resources
+G:\BasicSec04\BasicSec04\obj\Debug\BasicSec04.Properties.Resources.resources
+G:\BasicSec04\BasicSec04\obj\Debug\BasicSec04.EncryptMessage.resources
+G:\BasicSec04\BasicSec04\obj\Debug\BasicSec04.csproj.GenerateResource.Cache
+C:\Users\11301497\Documents\School\Basic Security\Security\Opdracht\KennyVersion\BasicSec04\BasicSec04\bin\Debug\BasicSec04.exe.config
+C:\Users\11301497\Documents\School\Basic Security\Security\Opdracht\KennyVersion\BasicSec04\BasicSec04\obj\Debug\BasicSec04.exe
+C:\Users\11301497\Documents\School\Basic Security\Security\Opdracht\KennyVersion\BasicSec04\BasicSec04\obj\Debug\BasicSec04.pdb
+C:\Users\11301497\Documents\School\Basic Security\Security\Opdracht\KennyVersion\BasicSec04\BasicSec04\bin\Debug\BasicSec04.exe
+C:\Users\11301497\Documents\School\Basic Security\Security\Opdracht\KennyVersion\BasicSec04\BasicSec04\bin\Debug\BasicSec04.pdb
+C:\Users\11301497\Documents\School\Basic Security\Security\Opdracht\KennyVersion\BasicSec04\BasicSec04\bin\Debug\AESExtensions.dll
+C:\Users\11301497\Documents\School\Basic Security\Security\Opdracht\KennyVersion\BasicSec04\BasicSec04\bin\Debug\BasicSecDB.dll
+C:\Users\11301497\Documents\School\Basic Security\Security\Opdracht\KennyVersion\BasicSec04\BasicSec04\bin\Debug\RSAExtensions.dll
+C:\Users\11301497\Documents\School\Basic Security\Security\Opdracht\KennyVersion\BasicSec04\BasicSec04\bin\Debug\AESExtensions.pdb
+C:\Users\11301497\Documents\School\Basic Security\Security\Opdracht\KennyVersion\BasicSec04\BasicSec04\bin\Debug\BasicSecDB.pdb
+C:\Users\11301497\Documents\School\Basic Security\Security\Opdracht\KennyVersion\BasicSec04\BasicSec04\bin\Debug\RSAExtensions.pdb
+C:\Users\11301497\Documents\School\Basic Security\Security\Opdracht\KennyVersion\BasicSec04\BasicSec04\obj\Debug\BasicSec04.csprojResolveAssemblyReference.cache
+C:\Users\11301497\Documents\School\Basic Security\Security\Opdracht\KennyVersion\BasicSec04\BasicSec04\obj\Debug\BasicSec04.DecryptFile.resources
+C:\Users\11301497\Documents\School\Basic Security\Security\Opdracht\KennyVersion\BasicSec04\BasicSec04\obj\Debug\BasicSec04.EncryptFile.resources
+C:\Users\11301497\Documents\School\Basic Security\Security\Opdracht\KennyVersion\BasicSec04\BasicSec04\obj\Debug\BasicSec04.Login.resources
+C:\Users\11301497\Documents\School\Basic Security\Security\Opdracht\KennyVersion\BasicSec04\BasicSec04\obj\Debug\BasicSec04.Menu.resources
+C:\Users\11301497\Documents\School\Basic Security\Security\Opdracht\KennyVersion\BasicSec04\BasicSec04\obj\Debug\BasicSec04.ChoiceMenu.resources
+C:\Users\11301497\Documents\School\Basic Security\Security\Opdracht\KennyVersion\BasicSec04\BasicSec04\obj\Debug\BasicSec04.Properties.Resources.resources
+C:\Users\11301497\Documents\School\Basic Security\Security\Opdracht\KennyVersion\BasicSec04\BasicSec04\obj\Debug\BasicSec04.EncryptMessage.resources
+C:\Users\11301497\Documents\School\Basic Security\Security\Opdracht\KennyVersion\BasicSec04\BasicSec04\obj\Debug\BasicSec04.csproj.GenerateResource.Cache
+C:\Users\11301497\Documents\School\Basic Security\Security\Opdracht\KennyVersion\BasicSec04\BasicSec04\obj\Debug\BasicSec04.Steganography.resources
+C:\Users\11301497\Documents\School\Basic Security\Security\Opdracht\KennyVersion\BasicSec04\BasicSec04\bin\Debug\Stenography.dll
+C:\Users\11301497\Documents\School\Basic Security\Security\Opdracht\KennyVersion\BasicSec04\BasicSec04\bin\Debug\Stenography.pdb
+C:\Users\11301497\Documents\School\Basic Security\Security\Opdracht\LatestVersion\BasicSec04\BasicSec04\bin\Debug\BasicSec04.exe.config
+C:\Users\11301497\Documents\School\Basic Security\Security\Opdracht\LatestVersion\BasicSec04\BasicSec04\obj\Debug\BasicSec04.exe
+C:\Users\11301497\Documents\School\Basic Security\Security\Opdracht\LatestVersion\BasicSec04\BasicSec04\obj\Debug\BasicSec04.pdb
+C:\Users\11301497\Documents\School\Basic Security\Security\Opdracht\LatestVersion\BasicSec04\BasicSec04\obj\Debug\BasicSec04.csprojResolveAssemblyReference.cache
+C:\Users\11301497\Documents\School\Basic Security\Security\Opdracht\LatestVersion\BasicSec04\BasicSec04\obj\Debug\BasicSec04.DecryptFile.resources
+C:\Users\11301497\Documents\School\Basic Security\Security\Opdracht\LatestVersion\BasicSec04\BasicSec04\obj\Debug\BasicSec04.EncryptFile.resources
+C:\Users\11301497\Documents\School\Basic Security\Security\Opdracht\LatestVersion\BasicSec04\BasicSec04\obj\Debug\BasicSec04.Login.resources
+C:\Users\11301497\Documents\School\Basic Security\Security\Opdracht\LatestVersion\BasicSec04\BasicSec04\obj\Debug\BasicSec04.Menu.resources
+C:\Users\11301497\Documents\School\Basic Security\Security\Opdracht\LatestVersion\BasicSec04\BasicSec04\obj\Debug\BasicSec04.ChoiceMenu.resources
+C:\Users\11301497\Documents\School\Basic Security\Security\Opdracht\LatestVersion\BasicSec04\BasicSec04\obj\Debug\BasicSec04.EncryptMessage.resources
+C:\Users\11301497\Documents\School\Basic Security\Security\Opdracht\LatestVersion\BasicSec04\BasicSec04\obj\Debug\BasicSec04.Steganography.resources
+C:\Users\11301497\Documents\School\Basic Security\Security\Opdracht\LatestVersion\BasicSec04\BasicSec04\obj\Debug\BasicSec04.csproj.GenerateResource.Cache
+C:\Users\11301497\Documents\School\Basic Security\Security\Opdracht\LatestVersion\BasicSec04\BasicSec04\obj\Debug\BasicSec04.Properties.Resources.resources
+C:\Users\11301497\Documents\School\Basic Security\Security\Opdracht\LatestVersion\BasicSec04\BasicSec04\bin\Debug\BasicSec04.exe
+C:\Users\11301497\Documents\School\Basic Security\Security\Opdracht\LatestVersion\BasicSec04\BasicSec04\bin\Debug\BasicSec04.pdb
+C:\Users\11301497\Documents\School\Basic Security\Security\Opdracht\LatestVersion\BasicSec04\BasicSec04\bin\Debug\AESExtensions.dll
+C:\Users\11301497\Documents\School\Basic Security\Security\Opdracht\LatestVersion\BasicSec04\BasicSec04\bin\Debug\BasicSecDB.dll
+C:\Users\11301497\Documents\School\Basic Security\Security\Opdracht\LatestVersion\BasicSec04\BasicSec04\bin\Debug\RSAExtensions.dll
+C:\Users\11301497\Documents\School\Basic Security\Security\Opdracht\LatestVersion\BasicSec04\BasicSec04\bin\Debug\SteganographyExtensions.dll
+C:\Users\11301497\Documents\School\Basic Security\Security\Opdracht\LatestVersion\BasicSec04\BasicSec04\bin\Debug\AESExtensions.pdb
+C:\Users\11301497\Documents\School\Basic Security\Security\Opdracht\LatestVersion\BasicSec04\BasicSec04\bin\Debug\BasicSecDB.pdb
+C:\Users\11301497\Documents\School\Basic Security\Security\Opdracht\LatestVersion\BasicSec04\BasicSec04\bin\Debug\SteganographyExtensions.pdb
+C:\Users\11301497\Documents\School\Basic Security\Security\Opdracht\LatestVersion\BasicSec04\BasicSec04\bin\Debug\RSAExtensions.pdb
+C:\Users\11301497\Dropbox\Basic Security\LatestestVersion\BasicSec04\BasicSec04\bin\Debug\BasicSec04.exe.config
+C:\Users\11301497\Dropbox\Basic Security\LatestestVersion\BasicSec04\BasicSec04\obj\Debug\BasicSec04.exe
+C:\Users\11301497\Dropbox\Basic Security\LatestestVersion\BasicSec04\BasicSec04\obj\Debug\BasicSec04.pdb
+C:\Users\Kenny\Desktop\BasicSec04\BasicSec04\bin\Debug\SteganographyExtensions.dll
+C:\Users\Kenny\Desktop\BasicSec04\BasicSec04\bin\Debug\SteganographyExtensions.pdb
+C:\Users\Kenny\Desktop\BasicSec04\BasicSec04\obj\Debug\BasicSec04.Steganography.resources
+C:\Users\Kenny\Dropbox\GroepsWerk SoftwareAnalyse\LatestestVersion\BasicSec04ProgressBarDecrypt\BasicSec04\bin\Debug\BasicSec04.exe.config
+C:\Users\Kenny\Dropbox\GroepsWerk SoftwareAnalyse\LatestestVersion\BasicSec04ProgressBarDecrypt\BasicSec04\obj\Debug\BasicSec04.exe
+C:\Users\Kenny\Dropbox\GroepsWerk SoftwareAnalyse\LatestestVersion\BasicSec04ProgressBarDecrypt\BasicSec04\obj\Debug\BasicSec04.pdb
+C:\Users\11301497\Dropbox\Basic Security\LatestestVersion\BasicSec04ProgressBarDecrypt\BasicSec04\bin\Debug\BasicSec04.exe.config
+C:\Users\11301497\Dropbox\Basic Security\LatestestVersion\BasicSec04ProgressBarDecrypt\BasicSec04\obj\Debug\BasicSec04.exe
+C:\Users\11301497\Dropbox\Basic Security\LatestestVersion\BasicSec04ProgressBarDecrypt\BasicSec04\obj\Debug\BasicSec04.pdb
+C:\Users\Kenny\Desktop\BasicSec04ProgressBarDecrypt\BasicSec04\bin\Debug\BasicSec04.exe.config
+C:\Users\Kenny\Desktop\BasicSec04ProgressBarDecrypt\BasicSec04\obj\Debug\BasicSec04.exe
+C:\Users\Kenny\Desktop\BasicSec04ProgressBarDecrypt\BasicSec04\obj\Debug\BasicSec04.pdb
+C:\Users\Kenny\Desktop\BasicSec04ProgressBarDecrypt\BasicSec04\bin\Debug\BasicSec04.exe
+C:\Users\Kenny\Desktop\BasicSec04ProgressBarDecrypt\BasicSec04\bin\Debug\BasicSec04.pdb
+C:\Users\Kenny\Desktop\BasicSec04ProgressBarDecrypt\BasicSec04\bin\Debug\AESExtensions.dll
+C:\Users\Kenny\Desktop\BasicSec04ProgressBarDecrypt\BasicSec04\bin\Debug\BasicSecDB.dll
+C:\Users\Kenny\Desktop\BasicSec04ProgressBarDecrypt\BasicSec04\bin\Debug\RSAExtensions.dll
+C:\Users\Kenny\Desktop\BasicSec04ProgressBarDecrypt\BasicSec04\bin\Debug\SteganographyExtensions.dll
+C:\Users\Kenny\Desktop\BasicSec04ProgressBarDecrypt\BasicSec04\bin\Debug\AESExtensions.pdb
+C:\Users\Kenny\Desktop\BasicSec04ProgressBarDecrypt\BasicSec04\bin\Debug\BasicSecDB.pdb
+C:\Users\Kenny\Desktop\BasicSec04ProgressBarDecrypt\BasicSec04\bin\Debug\SteganographyExtensions.pdb
+C:\Users\Kenny\Desktop\BasicSec04ProgressBarDecrypt\BasicSec04\bin\Debug\RSAExtensions.pdb
+C:\Users\Kenny\Desktop\BasicSec04ProgressBarDecrypt\BasicSec04\obj\Debug\BasicSec04.csprojResolveAssemblyReference.cache
+C:\Users\Kenny\Desktop\BasicSec04ProgressBarDecrypt\BasicSec04\obj\Debug\BasicSec04.DecryptFile.resources
+C:\Users\Kenny\Desktop\BasicSec04ProgressBarDecrypt\BasicSec04\obj\Debug\BasicSec04.EncryptFile.resources
+C:\Users\Kenny\Desktop\BasicSec04ProgressBarDecrypt\BasicSec04\obj\Debug\BasicSec04.Login.resources
+C:\Users\Kenny\Desktop\BasicSec04ProgressBarDecrypt\BasicSec04\obj\Debug\BasicSec04.Menu.resources
+C:\Users\Kenny\Desktop\BasicSec04ProgressBarDecrypt\BasicSec04\obj\Debug\BasicSec04.ChoiceMenu.resources
+C:\Users\Kenny\Desktop\BasicSec04ProgressBarDecrypt\BasicSec04\obj\Debug\BasicSec04.Properties.Resources.resources
+C:\Users\Kenny\Desktop\BasicSec04ProgressBarDecrypt\BasicSec04\obj\Debug\BasicSec04.EncryptMessage.resources
+C:\Users\Kenny\Desktop\BasicSec04ProgressBarDecrypt\BasicSec04\obj\Debug\BasicSec04.Steganography.resources
+C:\Users\Kenny\Desktop\BasicSec04ProgressBarDecrypt\BasicSec04\obj\Debug\BasicSec04.csproj.GenerateResource.Cache
+C:\Users\11301497\Dropbox\Basic Security\BasicSec04FINAL\BasicSec04\bin\Debug\BasicSec04.exe.config
+C:\Users\11301497\Dropbox\Basic Security\BasicSec04FINAL\BasicSec04\obj\Debug\BasicSec04.exe
+C:\Users\11301497\Dropbox\Basic Security\BasicSec04FINAL\BasicSec04\obj\Debug\BasicSec04.pdb
+C:\Users\Kenny\Desktop\BasicSec04FINAL\BasicSec04\bin\Debug\BasicSec04.exe.config
+C:\Users\Kenny\Desktop\BasicSec04FINAL\BasicSec04\obj\Debug\BasicSec04.exe
+C:\Users\Kenny\Desktop\BasicSec04FINAL\BasicSec04\obj\Debug\BasicSec04.pdb
+C:\Users\Kenny\Desktop\BasicSec04FINAL\BasicSec04\obj\Debug\BasicSec04.csprojResolveAssemblyReference.cache
+C:\Users\Kenny\Desktop\BasicSec04FINAL\BasicSec04\obj\Debug\BasicSec04.DecryptFile.resources
+C:\Users\Kenny\Desktop\BasicSec04FINAL\BasicSec04\obj\Debug\BasicSec04.EncryptFile.resources
+C:\Users\Kenny\Desktop\BasicSec04FINAL\BasicSec04\obj\Debug\BasicSec04.Login.resources
+C:\Users\Kenny\Desktop\BasicSec04FINAL\BasicSec04\obj\Debug\BasicSec04.Menu.resources
+C:\Users\Kenny\Desktop\BasicSec04FINAL\BasicSec04\obj\Debug\BasicSec04.ChoiceMenu.resources
+C:\Users\Kenny\Desktop\BasicSec04FINAL\BasicSec04\obj\Debug\BasicSec04.Properties.Resources.resources
+C:\Users\Kenny\Desktop\BasicSec04FINAL\BasicSec04\obj\Debug\BasicSec04.EncryptMessage.resources
+C:\Users\Kenny\Desktop\BasicSec04FINAL\BasicSec04\obj\Debug\BasicSec04.Steganography.resources
+C:\Users\Kenny\Desktop\BasicSec04FINAL\BasicSec04\obj\Debug\BasicSec04.csproj.GenerateResource.Cache
+C:\Users\Kenny\Desktop\BasicSec04FINAL\BasicSec04\bin\Debug\BasicSec04.exe
+C:\Users\Kenny\Desktop\BasicSec04FINAL\BasicSec04\bin\Debug\BasicSec04.pdb
+C:\Users\Kenny\Desktop\BasicSec04FINAL\BasicSec04\bin\Debug\AESExtensions.dll
+C:\Users\Kenny\Desktop\BasicSec04FINAL\BasicSec04\bin\Debug\BasicSecDB.dll
+C:\Users\Kenny\Desktop\BasicSec04FINAL\BasicSec04\bin\Debug\RSAExtensions.dll
+C:\Users\Kenny\Desktop\BasicSec04FINAL\BasicSec04\bin\Debug\SteganographyExtensions.dll
+C:\Users\Kenny\Desktop\BasicSec04FINAL\BasicSec04\bin\Debug\AESExtensions.pdb
+C:\Users\Kenny\Desktop\BasicSec04FINAL\BasicSec04\bin\Debug\BasicSecDB.pdb
+C:\Users\Kenny\Desktop\BasicSec04FINAL\BasicSec04\bin\Debug\RSAExtensions.pdb
+C:\Users\Kenny\Desktop\BasicSec04FINAL\BasicSec04\bin\Debug\SteganographyExtensions.pdb

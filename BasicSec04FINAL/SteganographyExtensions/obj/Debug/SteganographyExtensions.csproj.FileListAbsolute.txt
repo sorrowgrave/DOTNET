@@ -1,0 +1,18 @@
+C:\Users\11301497\Documents\School\Basic Security\Security\Opdracht\LatestVersion\BasicSec04\ClassLibrary1\bin\Debug\SteganographyExtensions.dll
+C:\Users\11301497\Documents\School\Basic Security\Security\Opdracht\LatestVersion\BasicSec04\ClassLibrary1\bin\Debug\SteganographyExtensions.pdb
+C:\Users\11301497\Documents\School\Basic Security\Security\Opdracht\LatestVersion\BasicSec04\ClassLibrary1\obj\Debug\SteganographyExtensions.dll
+C:\Users\11301497\Documents\School\Basic Security\Security\Opdracht\LatestVersion\BasicSec04\ClassLibrary1\obj\Debug\SteganographyExtensions.pdb
+C:\Users\Kenny\Desktop\BasicSec04\ClassLibrary1\bin\Debug\SteganographyExtensions.dll
+C:\Users\Kenny\Desktop\BasicSec04\ClassLibrary1\bin\Debug\SteganographyExtensions.pdb
+C:\Users\Kenny\Desktop\BasicSec04\ClassLibrary1\obj\Debug\SteganographyExtensions.csprojResolveAssemblyReference.cache
+C:\Users\Kenny\Desktop\BasicSec04\ClassLibrary1\obj\Debug\SteganographyExtensions.dll
+C:\Users\Kenny\Desktop\BasicSec04\ClassLibrary1\obj\Debug\SteganographyExtensions.pdb
+C:\Users\Kenny\Desktop\BasicSec04ProgressBarDecrypt\ClassLibrary1\bin\Debug\SteganographyExtensions.dll
+C:\Users\Kenny\Desktop\BasicSec04ProgressBarDecrypt\ClassLibrary1\bin\Debug\SteganographyExtensions.pdb
+C:\Users\Kenny\Desktop\BasicSec04ProgressBarDecrypt\ClassLibrary1\obj\Debug\SteganographyExtensions.dll
+C:\Users\Kenny\Desktop\BasicSec04ProgressBarDecrypt\ClassLibrary1\obj\Debug\SteganographyExtensions.pdb
+C:\Users\Kenny\Desktop\BasicSec04FINAL\SteganographyExtensions\bin\Debug\SteganographyExtensions.dll
+C:\Users\Kenny\Desktop\BasicSec04FINAL\SteganographyExtensions\bin\Debug\SteganographyExtensions.pdb
+C:\Users\Kenny\Desktop\BasicSec04FINAL\SteganographyExtensions\obj\Debug\SteganographyExtensions.csprojResolveAssemblyReference.cache
+C:\Users\Kenny\Desktop\BasicSec04FINAL\SteganographyExtensions\obj\Debug\SteganographyExtensions.dll
+C:\Users\Kenny\Desktop\BasicSec04FINAL\SteganographyExtensions\obj\Debug\SteganographyExtensions.pdb

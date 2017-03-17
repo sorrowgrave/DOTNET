@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{79FC07C2-14E1-4C74-BCD0-DDB3A2903E5C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BasicSec04</RootNamespace>
+    <AssemblyName>BasicSec04</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>lockicon %281%29.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DecryptFile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DecryptFile.designer.cs">
+      <DependentUpon>DecryptFile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EncryptFile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EncryptFile.designer.cs">
+      <DependentUpon>EncryptFile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu.designer.cs">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ChoiceMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChoiceMenu.designer.cs">
+      <DependentUpon>ChoiceMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="EncryptMessage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EncryptMessage.designer.cs">
+      <DependentUpon>EncryptMessage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Steganography.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Steganography.Designer.cs">
+      <DependentUpon>Steganography.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserInterface.cs" />
+    <Compile Include="FileIO.cs" />
+    <EmbeddedResource Include="DecryptFile.resx">
+      <DependentUpon>DecryptFile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EncryptFile.resx">
+      <DependentUpon>EncryptFile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu.resx">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChoiceMenu.resx">
+      <DependentUpon>ChoiceMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="EncryptMessage.resx">
+      <DependentUpon>EncryptMessage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Steganography.resx">
+      <DependentUpon>Steganography.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\AESExtensions\AESExtensions.csproj">
+      <Project>{6714e41b-e664-4277-aefc-bc5fd35390b2}</Project>
+      <Name>AESExtensions</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\BasicSecDB\BasicSecDB.csproj">
+      <Project>{0fb18d24-1bac-41b5-83e1-aebc5dce3ce3}</Project>
+      <Name>BasicSecDB</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\RSAExtensions\RSAExtensions.csproj">
+      <Project>{c49c065d-7d8d-4709-956f-ffcaaa138d55}</Project>
+      <Name>RSAExtensions</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SteganographyExtensions\SteganographyExtensions.csproj">
+      <Project>{348a1711-9464-4c2e-8ed5-d825f93920e9}</Project>
+      <Name>SteganographyExtensions</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="lockicon %281%29.ico" />
+    <None Include="Resources\Drag&amp;Drop.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
